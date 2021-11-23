@@ -6,8 +6,11 @@ In this project, We will be analysing DM and based on the analysis of the disord
 dataset collected, We’ll build a machine learning model for the diabetes prediction.
 
 🧩Procedure of Proposed Methodology:
+
 Step1: Import required libraries, Import diabetes dataset.
+
 Step2: Pre-process data to remove missing data/Exploratory Data Analysis (EDA).
+
 Step3: Perform a percentage split of 80% to divide dataset as Training set and 20% to Test set.
 Step4: Select the machine learning algorithm i.e. K- Nearest Neighbor, Gaussian Naive Bayes
 and Random Forest.
